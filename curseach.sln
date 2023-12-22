@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "curseach", "curseach.csproj", "{6082FBA7-4FB5-4F68-8F19-E07B02916193}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6082FBA7-4FB5-4F68-8F19-E07B02916193}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6082FBA7-4FB5-4F68-8F19-E07B02916193}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6082FBA7-4FB5-4F68-8F19-E07B02916193}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6082FBA7-4FB5-4F68-8F19-E07B02916193}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {797272E0-1102-4B75-9DB4-4DC0CD87E1B1}
+	EndGlobalSection
+EndGlobal
